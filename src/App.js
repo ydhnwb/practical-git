@@ -21,6 +21,7 @@ function App() {
         <p>Itu adalah halaman register yang dikerjakan oldeh DEVELOPER 2</p>
 
         <p>Ini adalah page utk profile</p>
+        <p>Ini adalah halaman chnange password</p>
       </header>
     </div>
   );
