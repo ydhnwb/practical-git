@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
         <p>Ini adalah halaman login yang dikerjakan DEVELOPER 1</p>
-        <p>Ini adalah halaman register yang dikerjakan oldeh DEVELOPER 2</p>
+        <p>Itu adalah halaman register yang dikerjakan oldeh DEVELOPER 2</p>
       </header>
     </div>
   );
