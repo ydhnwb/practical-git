@@ -19,6 +19,8 @@ function App() {
         </a>
         <p>Ini adalah halaman login yang dikerjakan DEVELOPER 1</p>
         <p>Itu adalah halaman register yang dikerjakan oldeh DEVELOPER 2</p>
+
+        <p>Ini adalah page utk profile</p>
       </header>
     </div>
   );
