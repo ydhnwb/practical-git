@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Ini adalah halaman login yang dikerjakan DEVELOPER 1</p>
       </header>
     </div>
   );
